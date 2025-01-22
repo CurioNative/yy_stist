@@ -1,0 +1,79 @@
+.slide {
+    background-color: #ffffff;
+    height: 2036px;
+    width: 4182px;
+  }
+  
+  
+  .slide .overlap-group {
+    background-image: url(https://c.animaapp.com/DV3wXYri/img/rectangle-40501.svg);
+    background-size: 100% 100%;
+    height: 2036px;
+    left: 1204px;
+    position: relative;
+    width: 1847px;
+  }
+  
+  .slide .frame-1261153094-wrapper {
+    height: 211px;
+    left: 715px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 354px;
+    width: 343px;
+  }
+  
+  .slide .frame-1261153094 {
+    width: unset !important;
+  }
+  
+  .slide .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    gap: 89px;
+    left: 67px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 627px;
+  }
+  
+  .slide .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    gap: 89px;
+    left: 67px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 900px;
+  }
+  
+  .slide .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    gap: 89px;
+    left: 67px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 1173px;
+  }
+  
+  .slide .frame-7 {
+    align-items: center;
+    display: inline-flex;
+    gap: 89px;
+    left: 67px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 1446px;
+  }
+  
+  .slide .frame-8 {
+    align-items: center;
+    display: inline-flex;
+    gap: 89px;
+    left: 67px;
+    mix-blend-mode: difference;
+    position: absolute;
+    top: 1719px;
+  }
+  
