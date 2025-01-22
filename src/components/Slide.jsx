@@ -7,6 +7,11 @@ export const Slide = () => {
   return (
     <div className="slide">
       <div className="overlap-group">
+
+      <div className="sponsors-heading">
+        <h1>OUR SPONSORS</h1>
+      </div>
+      
         <div className="frame-1261153094-wrapper">
           <Frame className="frame-1261153094" property1="default" />
         </div>

@@ -76,3 +76,17 @@
     top: 1719px;
   }
   
+  .sponsors-heading {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .sponsors-heading h1 {
+    font-size: 7rem;
+    font-weight: bold;
+    background: linear-gradient(to right, #000000 20%, #f0f0f0 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  }
+  
