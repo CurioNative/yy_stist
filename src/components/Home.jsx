@@ -196,7 +196,7 @@ export const Home = () => {
 
         <div className="college-name">
           <p className="ST-THOMAS-INSTITUTE">
-            ST. THOMAS INSTITUTE FOR SCIENCE &amp; TECHNOLoGY
+            ST. THOMAS INSTITUTE FOR SCIENCE &amp; TECHNOLOGY
           </p>
 
           <div className="text-wrapper-3">PRESENTS</div>
