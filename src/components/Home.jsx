@@ -1,44 +1,44 @@
-import React from "react";
-import blackDot from "./black-dot.svg";
-import black from "./black.svg";
-import blue from "./blue.svg";
-import frame13941 from "./frame-13941.svg";
-import image from "./image.svg";
-import line12 from "./line-1-2.svg";
-import line13 from "./line-1-3.svg";
-import line14 from "./line-1-4.svg";
-import line15 from "./line-1-5.svg";
-import line16 from "./line-1-6.svg";
-import line17 from "./line-1-7.svg";
-import line18 from "./line-1-8.svg";
-import line19 from "./line-1-9.svg";
-import line110 from "./line-1-10.svg";
-import line111 from "./line-1-11.svg";
-import line1 from "./line-1.svg";
-import line22 from "./line-2-2.svg";
-import line23 from "./line-2-3.svg";
-import line24 from "./line-2-4.svg";
-import line25 from "./line-2-5.svg";
-import line26 from "./line-2-6.svg";
-import line27 from "./line-2-7.svg";
-import line28 from "./line-2-8.svg";
-import line29 from "./line-2-9.svg";
-import line210 from "./line-2-10.svg";
-import line211 from "./line-2-11.svg";
-import line212 from "./line-2-12.svg";
-import line2 from "./line-2.svg";
-import "./style.css";
-import vector458 from "./vector-458.svg";
-import yasyaBwHalftone from "./yasya-bw-halftone.png";
-import yasyaLogo from "./yasya-logo.svg";
-import yasyaRbgHalftone from "./yasya-rbg-halftone.png";
-import yasysWomanOri from "./yasys-woman-ori.png";
-import yukthiBwHalfton from "./yukthi-bw-halfton.png";
-import yukthiLogo from "./yukthi-logo.svg";
-import yukthiRgbHalfltone from "./yukthi-rgb-halfltone.png";
-import yukthiRobot from "./yukthi-robot.png";
+import React from 'react';
+import blackDot from '../images/black-dot.svg';
+import black from '../images/black.svg';
+import blue from '../images/blue-1.png';
+import frame13941 from '../images/frame-13941-2.png';
+import image from '../images/vector-458-2.svg';
+import line13 from '../images/line-1-31.svg';
+import line12 from '../images/line-1-31.svg';
+import line14 from '../images/line-1-31.svg';
+import line15 from '../images/line-1-31.svg';
+import line16 from '../images/line-1-31.svg';
+import line17 from '../images/line-1-31.svg';
+import line18 from '../images/line-1-31.svg';
+import line19 from '../images/line-1-31.svg';
+import line110 from '../images/line-1-31.svg';
+import line111 from '../images/line-1-31.svg';
+import line1 from '../images/line-1-31.svg';
+import line22 from '../images/line-2-31.svg';
+import line23 from '../images/line-2-31.svg';
+import line24 from '../images/line-2-31.svg';
+import line25 from '../images/line-2-31.svg';
+import line26 from '../images/line-2-31.svg';
+import line27 from '../images/line-2-31.svg';
+import line28 from '../images/line-2-31.svg';
+import line29 from '../images/line-2-31.svg';
+import line210 from '../images/line-2-31.svg';
+import line211 from '../images/line-2-31.svg';
+import line212 from '../images/line-2-31.svg';
+import line2 from '../images/line-2-31.svg';
+import './Home.css';
+import vector458 from '../images/vector-458-2.svg';
+import yasyaBwHalftone from '../images/yasya-bw-halftone-1.png';
+import yasyaLogo from '../images/yasya-logo-2.png';
+import yasyaRbgHalftone from '../images/yasya-rbg-halftone-1.png';
+import yasysWomanOri from '../images/yasys-woman-ori-1.png';
+import yukthiBwHalfton from '../images/yukthi-bw-halfton-1.png';
+import yukthiLogo from '../images/yukthi-logo-3.png';
+import yukthiRgbHalfltone from '../images/yukthi-rgb-halfltone-1.png';
+import yukthiRobot from '../images/yukthi-robot.png';
 
-export const Frame = () => {
+export const Home = () => {
   return (
     <div className="frame">
       <div className="overlap">
@@ -190,9 +190,9 @@ export const Frame = () => {
           </div>
         </div>
 
-        <div className="text-wrapper">YASYA ‘25</div>
+        <div className="text-wrapper">YASYA '25</div>
 
-        <div className="text-wrapper-2">YUKTHI ‘25</div>
+        <div className="text-wrapper-2">YUKTHI '25</div>
 
         <div className="college-name">
           <p className="ST-THOMAS-INSTITUTE">
@@ -247,3 +247,5 @@ export const Frame = () => {
     </div>
   );
 };
+
+export default Home;
